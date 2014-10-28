@@ -1,6 +1,2 @@
-.Python
-lib
-bin
-include
 config/*
 !config/*.dist
